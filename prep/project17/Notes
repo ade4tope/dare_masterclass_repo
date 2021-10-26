@@ -1,0 +1,51 @@
+Terraform
+
+1. Introduce AWS CLI
+    IAM and secrets configuration
+2. Introduce IAC
+    -- installing Terraform
+    -- Installing an IDEA - Atom, and Visual Studio Code
+3. Introduce Git
+    -- Create a repo in gitlab
+    -- Invite everyone to the repo
+    -- Simulate git changes, including merge requests
+    -- Everyone should clone the repo and pull as we progress
+4. Discuss Terraform Concepts
+    -- Providers/Plugins
+    https://registry.terraform.io/search/providers
+        terraform init
+    --  Modules
+    -- Attributes and Arguments
+    -- Data types
+        -- String
+        -- list
+        -- map/dictionay
+        -- numbers
+5. Networking
+    -- VPC
+    -- Interpolation
+    -- Subnets
+
+6. Discuss gitflow with a diagram
+
+-- pull
+-- Create feature branch
+-- change code
+-- stage or add
+-- commit
+-- push
+-- Raise Merge request
+-- Merge
+
+
+    Part 2
+
+1. Introduce remote states
+2. Packer
+
+
+
+
+
+
+
